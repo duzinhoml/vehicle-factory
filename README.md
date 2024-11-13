@@ -42,7 +42,7 @@ No active license
 
 ## Tests
 
-> <a href="" target="_blank">Walkthrough Video</a>
+> <a href="https://drive.google.com/file/d/1pZf1w2eF3a_Xb5ZF-VrQ-vnNHMDMVwFm/view" target="_blank">Walkthrough Video</a>
 
 ## Questions
 
